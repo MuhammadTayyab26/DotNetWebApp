@@ -1,0 +1,3 @@
+C:\Program Files\dotnet\MyFirstAzureWebApp\bin\Debug\netcoreapp3.1\MyFirstAzureWebApp.exe
+C:\Program Files\dotnet\MyFirstAzureWebApp\bin\Debug\netcoreapp3.1\MyFirstAzureWebApp.dll
+C:\Program Files\dotnet\MyFirstAzureWebApp\bin\Debug\netcoreapp3.1\MyFirstAzureWebApp.Views.dll
